@@ -1,7 +1,7 @@
 # **Blockchain Developer Training**
 ### Curated courses and online resources for people who wish to study blockchain development.
 
-# Established Github Learning Tracks
+## Established Github Learning Tracks
 ### [Open Source Computer Science Degree](https://github.com/forrestknight/open-source-cs)
 For general computer science topics and programming, you should study various components in "Open Source Computer Science Degree" compiled by Forrest Knight.
 
@@ -12,7 +12,7 @@ As a blockchain developer, you will be working with large, complex systems.  The
 The "ethdev-diary" is a log of one Shadowy Super Coder's journey into learning how to be a developer using the Ethereum blockchain.
 
 
-# Books
+## Books
 ### [Learn Python 3 The Hard Way](https://learnpythonthehardway.org/python3/) by Zed Shaw
 A PDF for Python 2.7 is available to get you started, but you should move on to Python 3.
 ### [Learn Rust](https://www.rust-lang.org/learn) by the Rust Team
@@ -20,7 +20,7 @@ The Rust Team's official programming book
 ### [Solidity](https://docs.soliditylang.org/en/latest/)
 Official site of Solidity.
 
-# [Learn a language in Y Minutes](learnxinyminutes.com/)
+## [Learn a language in Y Minutes](learnxinyminutes.com/)
 ### [Learn C++ in Y Minutes](https://learnxinyminutes.com/docs/c++/)
 ### [Learn Python 3 in Y Minutes](https://learnxinyminutes.com/docs/python/)
 ### [Learn Rust in Y Minutes](https://learnxinyminutes.com/docs/rust/)
