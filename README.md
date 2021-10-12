@@ -17,8 +17,8 @@ The "ethdev-diary" is a log of one Shadowy Super Coder's journey into learning h
 A PDF for Python 2.7 is available to get you started, but you should move on to Python 3.
 ### [Learn Rust](https://www.rust-lang.org/learn) by the Rust Team
 The Rust Team's official programming book
-### [Solidity](https://docs.soliditylang.org/en/latest/)
-Official site of Solidity.
+### [Solidity Manual](https://docs.soliditylang.org/en/latest/)
+Official manual for the latest version of Solidity.
 
 ## [Learn a language in Y Minutes](learnxinyminutes.com/)
 ### [Learn C++ in Y Minutes](https://learnxinyminutes.com/docs/c++/)
