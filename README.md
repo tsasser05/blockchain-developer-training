@@ -13,6 +13,8 @@ The "ethdev-diary" is a log of one Shadowy Super Coder's journey into learning h
 
 
 ## Books and Online Manuals
+### [A Common-Sense Guide to Data Structures and Algorithms](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/) by Jay Wengrow.
+A very helpful introduction to the topic for new programmers.  I highly recommend this book.
 ### [Ethereum Development](https://ethereum.org/en/developers/docs/)
 Official site for Ethereum development.
 ### [Learn Python 3 The Hard Way](https://learnpythonthehardway.org/python3/) by Zed Shaw
