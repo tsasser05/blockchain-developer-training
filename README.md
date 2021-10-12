@@ -12,4 +12,11 @@ As a blockchain developer, you will be working with large, complex systems.  The
 The "ethdev-diary" is a log of one Shadowy Super Coder's journey into learning how to be a developer using the Ethereum blockchain.
 
 
-## I will add more content as I find various courses.
+# Books
+## [Learn Python 3 The Hard Way]() by Zed Shaw
+
+
+# Quick Language Learning Sites
+## [Learn X in Y Minutes](learnxinyminutes.com/)
+
+## I will add more content as I find various resources.
