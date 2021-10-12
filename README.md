@@ -17,8 +17,7 @@ The "ethdev-diary" is a log of one Shadowy Super Coder's journey into learning h
 A PDF for Python 2.7 is available to get you started, but you should move on to Python 3.
 ### [Learn Rust](https://www.rust-lang.org/learn) by the Rust Team
 
-# Learn a language in Y Minutes
-### [Learn X in Y Minutes](learnxinyminutes.com/)
+# [Learn a language in Y Minutes](learnxinyminutes.com/)
 ### [Learn C++ in Y Minutes](https://learnxinyminutes.com/docs/c++/)
 ### [Learn Python 3 in Y Minutes](https://learnxinyminutes.com/docs/python/)
 ### [Learn Rust in Y Minutes](https://learnxinyminutes.com/docs/rust/)
