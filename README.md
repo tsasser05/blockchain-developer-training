@@ -1,4 +1,4 @@
-# Blockchain Developer Training
+# **Blockchain Developer Training**
 ### Curated courses and online resources for people who wish to study blockchain development.
 
 
