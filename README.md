@@ -12,7 +12,9 @@ As a blockchain developer, you will be working with large, complex systems.  The
 The "ethdev-diary" is a log of one Shadowy Super Coder's journey into learning how to be a developer using the Ethereum blockchain.
 
 
-## Books
+## Books and Online Manuals
+### [Ethereum Development](https://ethereum.org/en/developers/docs/)
+Official site for Ethereum development.
 ### [Learn Python 3 The Hard Way](https://learnpythonthehardway.org/python3/) by Zed Shaw
 A PDF for Python 2.7 is available to get you started, but you should move on to Python 3.
 ### [Learn Rust](https://www.rust-lang.org/learn) by the Rust Team
