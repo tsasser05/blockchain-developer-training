@@ -20,7 +20,7 @@ The Rust Team's official programming book
 ### [Solidity Manual](https://docs.soliditylang.org/en/latest/)
 Official manual for the latest version of Solidity.
 
-## [Learn a language in Y Minutes](learnxinyminutes.com/)
+## [Learn X Language in Y Minutes](learnxinyminutes.com/)
 ### [Learn C++ in Y Minutes](https://learnxinyminutes.com/docs/c++/)
 ### [Learn Python 3 in Y Minutes](https://learnxinyminutes.com/docs/python/)
 ### [Learn Rust in Y Minutes](https://learnxinyminutes.com/docs/rust/)
