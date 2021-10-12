@@ -15,8 +15,11 @@ The "ethdev-diary" is a log of one Shadowy Super Coder's journey into learning h
 # Books
 ### [Learn Python 3 The Hard Way](https://learnpythonthehardway.org/python3/) by Zed Shaw
 A PDF for Python 2.7 is available to get you started, but you should move on to Python 3.
+### [Learn Rust](https://www.rust-lang.org/learn) by the Rust Team
 
-
-# Quick Language Learning Sites
+# Learn a language in Y Minutes
 ### [Learn X in Y Minutes](learnxinyminutes.com/)
+### [Learn C++ in Y Minutes](https://learnxinyminutes.com/docs/c++/)
+### [Learn Python 3 in Y Minutes](https://learnxinyminutes.com/docs/python/)
+### [Learn Rust in Y Minutes](https://learnxinyminutes.com/docs/rust/)
 
