@@ -13,7 +13,8 @@ The "ethdev-diary" is a log of one Shadowy Super Coder's journey into learning h
 
 
 # Books
-### [Learn Python 3 The Hard Way]() by Zed Shaw
+### [Learn Python 3 The Hard Way](https://learnpythonthehardway.org/python3/) by Zed Shaw
+A PDF for Python 2.7 is available to get you started, but you should move on to Python 3.
 
 
 # Quick Language Learning Sites
