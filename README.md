@@ -1,5 +1,5 @@
 # **Blockchain Developer Training**
-#### Curated courses and online resources for people who wish to study blockchain development.
+#### Curated courses and online resources for people who wish to study blockchain development to become professional Shadowy Super Coders.
 
 ## Established Github Learning Tracks
 ### [Open Source Computer Science Degree](https://github.com/forrestknight/open-source-cs)
