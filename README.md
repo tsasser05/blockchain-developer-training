@@ -24,6 +24,7 @@ Official manual for the latest version of Solidity.
 
 ## [Learn X Language in Y Minutes](learnxinyminutes.com/)
 ### [Learn C++ in Y Minutes](https://learnxinyminutes.com/docs/c++/)
+### [Learn Go in Y Minutes](https://learnxinyminutes.com/docs/go/)
 ### [Learn Python 3 in Y Minutes](https://learnxinyminutes.com/docs/python/)
 ### [Learn Rust in Y Minutes](https://learnxinyminutes.com/docs/rust/)
 
