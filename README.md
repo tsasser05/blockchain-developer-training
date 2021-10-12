@@ -8,9 +8,8 @@ For general computer science topics and programming, you should study various co
 ## [System Design Primer](https://github.com/donnemartin/system-design-primer)
 As a blockchain developer, you will be working with large, complex systems.  The System Design Primer by Donne Martin will help you understand how to work with them.
 
-## Ethdev-Diary
-[ethdev-diary](https://github.com/steadylearner/ethdev-diary)
-This is a log of one Shadowy Super Coder's journey into learning how to be a developer using the Ethereum blockchain.
+## [ethdev-diary](https://github.com/steadylearner/ethdev-diary)
+The "ethdev-diary" is a log of one Shadowy Super Coder's journey into learning how to be a developer using the Ethereum blockchain.
 
 
 ## I will add more content as I find various courses.
