@@ -25,6 +25,7 @@ The Rust Team's official programming book
 Learn the basics of programming using C++ from the creator of the language.
 ### [Solidity Manual](https://docs.soliditylang.org/en/latest/)
 Official manual for the latest version of Solidity.
+### [Learning Go](https://www.amazon.com/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216/ref=sr_1_1?keywords=Learning+Go&qid=1637805149&qsid=142-7690993-1783064&sr=8-1&sres=1492077216%2C0134190440%2C1617295329%2CB07FKSNXB5%2C1491969555%2C1788993403%2C1789340993%2CB08B3GDPQZ%2C1665709685%2C1497445825%2C1491298103%2C1699305528%2C054519864X%2CB012HTWVPI%2CB0773RQ55P%2C1501144324&srpt=ABIS_BOOK) by Jon Bodner
 
 ## [Learn X Language in Y Minutes](learnxinyminutes.com/)
 Keep these pages handy for quick reference.
