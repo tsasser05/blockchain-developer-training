@@ -1,7 +1,7 @@
 # **Blockchain Developer Training**
 #### Curated courses and online resources for people who wish to study blockchain development to become professional Shadowy Super Coders.
 
-# Established Github Learning Tracks
+# Established Learning Tracks
 ## [Open Source Computer Science Degree](https://github.com/forrestknight/open-source-cs)
 For general computer science topics and programming, you should study various components in "Open Source Computer Science Degree" compiled by Forrest Knight.  Includes Harvard's "Intro to Computer Science" for people completely new to programming.
 
