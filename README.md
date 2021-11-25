@@ -21,7 +21,7 @@ Official site for Ethereum development.
 A [PDF for Python 2.7](https://github.com/chris-void/pyway/blob/master/Learn%20Python%20The%20Hard%20Way,%203rd%20Edition%20.pdf) is available to get you started, but you should move on to Python 3.
 ### [Learn Rust](https://www.rust-lang.org/learn) by the Rust Team
 The Rust Team's official programming book
-### [Programming: Principles and Practice Using C++ (2nd Edition)](https://www.amazon.com/Programming-Principles-Practice-Using-2nd/dp/0321992784/ref=sr_1_4?dchild=1&keywords=stroustrup+c%2B%2B&qid=1634097350&sr=8-4)
+### [Programming: Principles and Practice Using C++ (2nd Edition)](https://www.amazon.com/Programming-Principles-Practice-Using-2nd/dp/0321992784/ref=sr_1_4?dchild=1&keywords=stroustrup+c%2B%2B&qid=1634097350&sr=8-4) by Bjarne Stroustrup
 Learn the basics of programming using C++ from the creator of the language.
 ### [Solidity Manual](https://docs.soliditylang.org/en/latest/)
 Official manual for the latest version of Solidity.
